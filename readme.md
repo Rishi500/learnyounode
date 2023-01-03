@@ -15,3 +15,6 @@
 9. [Juggling async](https://github.com/Rishi500/learnyounode/blob/main/juggling-async.js)
 10. [Time server.](https://github.com/Rishi500/learnyounode/blob/main/time-server.js)
 11. [Http file server](https://github.com/Rishi500/learnyounode/blob/main/http-file-server.js)
+
+12. [Http json api server](https://github.com/Rishi500/learnyounode/blob/main/http-json-api-server.js)
+
